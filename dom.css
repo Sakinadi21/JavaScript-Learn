@@ -1,0 +1,57 @@
+/* h1{
+    color: blueviolet;
+    background-color: beige;
+}
+body{
+    background-color: bisque;
+    height: 800px;
+}
+.button{
+    background-color: #4CAF50;
+}
+#heading1{
+    color: blue;
+    background-color: yellow;
+}
+.heading{
+    color: rgb(0, 47, 255);
+    background-color: rgb(248, 232, 7);
+/* } 
+h2{
+    color: rgb(58, 207, 187);
+}
+#box{
+    height: 400px;
+    width: 100px;
+    border: 1px solid black;
+    margin : 5px;
+    text-align: center;
+    background-color: rgb(9, 145, 99);
+    color: black;
+} */
+/* 
+.content{
+    color: brown;
+}
+
+.newClass{
+    background-color: green;
+/* }  */
+
+div{
+    height: 100px;
+    width : 180px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+} 
+
+
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
